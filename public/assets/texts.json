@@ -1,0 +1,14 @@
+{
+  "poor_born": "Vous êtes né pauvre... La vie ne sera pas facile pour vous, mais ne désespérez pas. Trump est bien parti d'un \"small loan of a million dollars\" !",
+  "rich_born": "Vous êtes né avec une cuillère d'argent dans la bouche. Tout vous souris ! À vous les vacances aux caraïbes sur le yacht de papa !",
+  "good_looking_born": "Vous êtes né beau/belle. Ce n'est pas très utile mais ça aide.",
+  "no_study": "Étudier ? Pour quoi faire ? Les cours ça ne sert à rien dans la vraie vie et la prof c'est une c*nne de toute façon.",
+  "short_study": "Vous étudiez ni trop, ni trop peu. Il faut bien vivre, hein !",
+  "long_study": "Vous vous lancez dans des études longues. Bac +20 c'est le minimum mais vous êtes convaincu que c'est un bon investissement pour le futur.",
+  "unemployed": "Vous chômez. Les séries et votre lit rythment vos journées. Au fond, on n'a pas besoin de plus que l'allocation et le RSA..",
+  "dev": "La vie de développeur c'est sympa. Un bon siège. Du lofi peut-être ? En tout cas ça paye pas trop mal!",
+  "football_player": "Joueur professionel c'est s'entrainer tous les jours, avoir une hygiène de vie, surveiller son image et faire du drama sur les réseaux. En tout cas la Bugatti est dans le garage de votre villa et ça c'est unique.",
+  "alone": "Vous finissez seul. Ce n'est pas grave il y a votre chat et au moins lui il ne gueule pas.",
+  "couple": "Vous trouvez l'âme soeur. Vous êtes empli d'un sentiment de plénitude à du lever du soleil jusqu'au soir.",
+  "couple_and_childs": "Vous trouvez l'âme soeur. Vous êtes empli d'un sentiment de plénitude à du lever du soleil jusqu'au soir. Par ailleurs vous avez deux enfants. Ils vous ressemblent pas trop et vous trouvez ça suspicieux, mais vous décidez de ne pas chercher plus loin."
+}
