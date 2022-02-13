@@ -1,8 +1,8 @@
 {
   "poor": {
     "description": "Vous êtes né pauvre... La vie ne sera pas facile pour vous, mais ne désespérez pas. Trump est bien parti d'un \"small loan of a million dollars\" !",
-    "next1": "no_study",
-    "next2": "short_study",
+    "next1": "/game/no_study",
+    "next2": "/game/short_study",
     "img1": "https://www.clipartmax.com/png/middle/38-383034_school-and-study-say-no-to-drugs.png",
     "img2": "https://media.istockphoto.com/vectors/businessman-get-bored-vector-id846382712",
     "label1": "Pas d'étude",
@@ -10,8 +10,8 @@
   },
   "rich": {
     "description": "Vous êtes né avec une cuillère d'argent dans la bouche. Tout vous souris ! À vous les vacances aux caraïbes sur le yacht de papa !",
-    "next1": "no_study",
-    "next2": "long_study",
+    "next1": "/game/no_study",
+    "next2": "/game/long_study",
     "img1": "https://www.clipartmax.com/png/middle/38-383034_school-and-study-say-no-to-drugs.png",
     "img2": "https://sidcom.online/wp-content/uploads/2021/07/bourse.jpg",
     "label1": "Pas d'étude",
@@ -19,8 +19,8 @@
   },
   "bg": {
     "description": "Vous êtes né beau/belle. Ce n'est pas très utile mais ça aide.",
-    "next1": "no_study",
-    "next2": "short_study",
+    "next1": "/game/no_study",
+    "next2": "/game/short_study",
     "img1": "https://www.clipartmax.com/png/middle/38-383034_school-and-study-say-no-to-drugs.png",
     "img2": "https://media.istockphoto.com/vectors/businessman-get-bored-vector-id846382712",
     "label1": "Pas d'étude",
@@ -28,8 +28,8 @@
   },
   "no_study": {
     "description": "Étudier ? Pour quoi faire ? Les cours ça ne sert à rien dans la vraie vie et la prof c'est une c*nne de toute façon.",
-    "next1": "unemployed",
-    "next2": "football_player",
+    "next1": "/game/unemployed",
+    "next2": "/game/football_player",
     "img1": "https://resize.marianne.net/r/770,462/img/var/LQ4455500C/527420/poleemploicontrole.jpg",
     "img2": "https://i.kym-cdn.com/photos/images/original/001/828/283/5a4.jpg",
     "label1": "Flemme de travailler",
@@ -37,8 +37,8 @@
   },
   "short_study": {
     "description": "Vous étudiez ni trop, ni trop peu. Il faut bien vivre, hein !",
-    "next1": "unemployed",
-    "next2": "dev",
+    "next1": "/game/unemployed",
+    "next2": "/game/dev",
     "img1": "https://resize.marianne.net/r/770,462/img/var/LQ4455500C/527420/poleemploicontrole.jpg",
     "img2": "https://m.media-amazon.com/images/I/61POa2nHN8L._AC_SX425_.jpg",
     "label1": "Flemme de travailler",
@@ -46,8 +46,8 @@
   },
   "long_study": {
     "description": "Vous vous lancez dans des études longues. Bac +20 c'est le minimum mais vous êtes convaincu que c'est un bon investissement pour le futur.",
-    "next1": "unemployed",
-    "next2": "dev",
+    "next1": "/game/unemployed",
+    "next2": "/game/dev",
     "img1": "https://resize.marianne.net/r/770,462/img/var/LQ4455500C/527420/poleemploicontrole.jpg",
     "img2": "https://m.media-amazon.com/images/I/61POa2nHN8L._AC_SX425_.jpg",
     "label1": "Flemme de travailler",
@@ -55,8 +55,8 @@
   },
   "unemployed": {
     "description": "Vous chômez. Les séries et votre lit rythment vos journées. Au fond, on n'a pas besoin de plus que l'allocation et le RSA..",
-    "next1": "alone",
-    "next2": "couple",
+    "next1": "/end/alone",
+    "next2": "/end/couple",
     "img1": "https://static.tvtropes.org/pmwiki/pub/images/capture_340.PNG",
     "img2": "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F226%2F662%2F4ad.jpg",
     "label1": "Rester seul",
@@ -64,8 +64,8 @@
   },
   "dev": {
     "description": "La vie de développeur c'est sympa. Un bon siège. Du lofi peut-être ? En tout cas ça paye pas trop mal!",
-    "next1": "alone",
-    "next2": "couple",
+    "next1": "/end/alone",
+    "next2": "/end/couple",
     "img1": "https://static.tvtropes.org/pmwiki/pub/images/capture_340.PNG",
     "img2": "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F226%2F662%2F4ad.jpg",
     "label1": "Rester seul",
@@ -73,8 +73,8 @@
   },
   "football_player": {
     "description": "Joueur professionel c'est s'entrainer tous les jours, avoir une hygiène de vie, surveiller son image et faire du drama sur les réseaux. En tout cas la Bugatti est dans le garage de votre villa et ça c'est unique.",
-    "next1": "couple",
-    "next2": "couple_and_children",
+    "next1": "/end/couple",
+    "next2": "/end/couple_and_children",
     "img1": "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F226%2F662%2F4ad.jpg",
     "img2": "http://dslv9ilpbe7p1.cloudfront.net/JH5n-q71XNj_XUVKM8lH0w_store_banner_image.jpeg",
     "label1": "Rencontrer l'amour de sa vie",
@@ -82,23 +82,14 @@
   },
   "alone": {
     "description": "Vous finissez seul. Ce n'est pas grave il y a votre chat et au moins lui il ne gueule pas.",
-    "next1": "",
-    "next2": "",
-    "img1": "",
-    "img2": ""
+    "image": "https://i.pinimg.com/474x/8f/87/2e/8f872e3b0e08b04d6a5d8806f23bb0ef.jpg"
   },
   "couple": {
     "description": "Vous trouvez l'âme soeur. Vous êtes empli d'un sentiment de plénitude à du lever du soleil jusqu'au soir.",
-    "next1": "",
-    "next2": "",
-    "img1": "",
-    "img2": ""
+    "image": "https://i.pinimg.com/originals/b1/38/10/b13810616d72644e2cea1407c53859dc.jpg"
   },
   "couple_and_children": {
     "description": "Vous trouvez l'âme soeur. Vous êtes empli d'un sentiment de plénitude à du lever du soleil jusqu'au soir. Par ailleurs vous avez deux enfants. Ils vous ressemblent pas trop et vous trouvez ça suspicieux, mais vous décidez de ne pas chercher plus loin.",
-    "next1": "",
-    "next2": "",
-    "img1": "",
-    "img2": ""
+    "image": "https://thumbs.dreamstime.com/z/citation-de-motivation-inspir%C3%A9e-le-meilleur-h%C3%A9ritage-un-parent-112597892.jpg"
   }
 }
